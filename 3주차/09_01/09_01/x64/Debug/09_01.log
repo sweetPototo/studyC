@@ -1,0 +1,6 @@
+﻿  09_01.c
+D:\Csung\09_01\09_01\09_01.c(58,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+D:\Csung\09_01\09_01\09_01.c(58,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+D:\Csung\09_01\09_01\09_01.c(59,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+D:\Csung\09_01\09_01\09_01.c(59,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+  09_01.vcxproj -> D:\Csung\09_01\x64\Debug\09_01.exe

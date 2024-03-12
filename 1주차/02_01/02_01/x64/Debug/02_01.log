@@ -1,0 +1,2 @@
+﻿  02_01.c
+D:\Csung\02_01\02_01\02_01.c(28,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
